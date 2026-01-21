@@ -27,6 +27,7 @@ A **Local-First Kanban App** that prioritizes user data privacy and instant perf
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Jenshel/Kanban-Workflow.git
+
    cd Kanban-Workflow
    ```
 
